@@ -1,0 +1,15 @@
+{"type":0,"user":"admin@uni-dubna.ru","status":1,"startDate":1655499600,"countDay":10,"dateFollowedWork":null,"vacationSpot":null,"_id":"27WnvF9Z1SIIX94V"}
+{"type":0,"user":"test1@uni-dubna.ru","status":0,"startDate":1668891600,"countDay":7,"dateFollowedWork":null,"vacationSpot":null,"_id":"Bwas3sywImm5O9ks"}
+{"type":1,"user":"test@uni-dubna.ru","status":0,"startDate":1653166800,"countDay":4,"dateFollowedWork":1653166800,"vacationSpot":null,"_id":"CtyOHJ8mZixM6C2I"}
+{"type":0,"user":"admin@uni-dubna.ru","status":1,"startDate":1655499600,"countDay":10,"dateFollowedWork":null,"vacationSpot":"Москва","_id":"D0012eXXdJlWuLqp"}
+{"type":0,"user":"tes@uni-dubna.ru","status":1,"startDate":1668891600,"countDay":7,"dateFollowedWork":null,"vacationSpot":null,"_id":"D4bMxuaeJWXHL9Y3"}
+{"type":0,"user":"test1@uni-dubna.ru","status":2,"startDate":1655672400,"countDay":7,"dateFollowedWork":null,"vacationSpot":null,"_id":"FDyn8zVW5lu8mOxO"}
+{"type":0,"user":"tes@uni-dubna.ru","status":1,"startDate":1657314000,"countDay":12,"dateFollowedWork":null,"vacationSpot":"Москва","_id":"HktdElblbc26sJ8g"}
+{"type":0,"user":"admin@uni-dubna.ru","status":1,"startDate":1655672400,"countDay":4,"dateFollowedWork":null,"vacationSpot":null,"_id":"KzA9AFrgkVYx9EPe"}
+{"type":0,"user":"test@uni-dubna.ru","status":0,"startDate":1652994000,"countDay":7,"dateFollowedWork":null,"vacationSpot":null,"_id":"O5bZ9TCOEk3Llvxg"}
+{"type":0,"user":"admin@uni-dubna.ru","status":1,"startDate":1655672400,"countDay":3,"dateFollowedWork":null,"vacationSpot":null,"_id":"bIoZ0dVbVvXcFi0G"}
+{"type":0,"user":"admin@uni-dubna.ru","status":1,"startDate":1655499600,"countDay":10,"dateFollowedWork":null,"vacationSpot":null,"_id":"kP6uZJNMUhHy2nvV"}
+{"type":3,"user":"admin@uni-dubna.ru","status":0,"startDate":1654808400,"countDay":4,"dateFollowedWork":1656018000,"vacationSpot":null,"_id":"meuXFf0B6um3VbZp"}
+{"type":0,"user":"tes@uni-dubna.ru","status":2,"startDate":1668891600,"countDay":7,"dateFollowedWork":null,"vacationSpot":null,"_id":"naiKHzc6iNhEbo0J"}
+{"type":1,"user":"test1@uni-dubna.ru","status":0,"startDate":1655672400,"countDay":7,"dateFollowedWork":null,"vacationSpot":null,"_id":"oAnbBDSI5Uh2pup0"}
+{"type":3,"user":"admin@uni-dubna.ru","status":0,"startDate":1654808400,"countDay":4,"dateFollowedWork":1656018000,"vacationSpot":null,"_id":"t2ZcZ6dqVhnWvrML"}
